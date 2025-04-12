@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.svgporn.com/logos/archlinux.svg" height="30" alt="arch logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=pZUyFjHZvA1v&format=png&color=000000" height="30" alt="war thunder logo"  />
+  <img src="https://img.icons8.com/?size=100&id=R5sTZvq3fTDW&format=png&color=000000" height="30" alt="war thunder logo"  />
 
   
   
