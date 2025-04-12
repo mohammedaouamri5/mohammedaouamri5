@@ -46,6 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://[cdn.simpleicons.org/vim/019733](https://cdn.svgporn.com/logos/archlinux.svg)" height="30" alt="arch logo"  />
+  
 </div>
 
 ###
