@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vim/019733" height="30" alt="vim logo"  />
   <img width="12" />
-  <img src="https://[cdn.simpleicons.org/vim/019733](https://cdn.svgporn.com/logos/archlinux.svg)" height="30" alt="arch logo"  />
+  <img src="https://cdn.svgporn.com/logos/archlinux.svg" height="30" alt="arch logo"  />
   
 </div>
 
