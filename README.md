@@ -62,15 +62,8 @@
  align="center"
 ![](https://github-readme-stats.vercel.app/api?username=mohammedaouamri5&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
 </div>
-<br/>
-<div>
 ![](https://nirzak-streak-stats.vercel.app/?user=mohammedaouamri5&theme=monokai&hide_border=false)<br/>
-</div>
-<br/>
-<div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedaouamri5&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
-<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohammedaouamri5&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
